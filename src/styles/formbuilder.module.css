@@ -1,0 +1,23 @@
+.form-builder{
+    text-align: center;
+    border: 1px solid black;
+    /* height: 500px; */
+    width: 500px;
+    margin: 100px auto;
+}
+.ct{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    border: 1px solid black;
+}
+.prev-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    text-align: center;
+    width: 500px;
+    border: 1px solid black;
+}
